@@ -1,0 +1,19 @@
+{
+  "name": "nex-finance-property",
+  "displayName": "Nex Finance and Property",
+  "version": "1.0.0",
+  "description": "Free finance and property skills by Nex AI: Belgian non-profit, rental, and syndicate admin, Flemish purchase costs, and US property and pay-app packs.",
+  "author": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "property",
+    "belgium",
+    "accounting"
+  ]
+}

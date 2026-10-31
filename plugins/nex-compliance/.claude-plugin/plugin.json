@@ -1,0 +1,19 @@
+{
+  "name": "nex-compliance",
+  "displayName": "Nex Compliance",
+  "version": "1.0.0",
+  "description": "Free compliance skills by Nex AI: EU e-invoicing, GDPR, HIPAA, COPPA, EUDR, ISO 27001, webshop law, privacy, and hardware declarations.",
+  "author": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "compliance",
+    "gdpr",
+    "einvoice",
+    "privacy"
+  ]
+}
