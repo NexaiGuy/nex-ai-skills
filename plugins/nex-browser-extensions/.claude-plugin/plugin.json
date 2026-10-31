@@ -1,0 +1,18 @@
+{
+  "name": "nex-browser-extensions",
+  "displayName": "Nex Browser Extensions",
+  "version": "1.0.0",
+  "description": "Free Manifest V3 browser-extension skills by Nex AI: page monitoring, clean copy, screenshots, color and font tools, trust checks, prompt boosting, and local receipt capture.",
+  "author": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "chrome",
+    "browser",
+    "extensions"
+  ]
+}

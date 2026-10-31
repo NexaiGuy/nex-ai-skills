@@ -1,0 +1,19 @@
+{
+  "name": "nex-web-audits",
+  "displayName": "Nex Web Audits",
+  "version": "1.0.0",
+  "description": "Free web skills by Nex AI: landing-page conversion audits, agent-ready websites, EU and US accessibility checks, Belgian search copy, and a single-file HTML section.",
+  "author": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "accessibility",
+    "marketing",
+    "web"
+  ]
+}

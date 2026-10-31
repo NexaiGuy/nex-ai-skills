@@ -1,0 +1,19 @@
+{
+  "name": "nex-dev-essentials",
+  "displayName": "Nex Dev Essentials",
+  "version": "1.0.0",
+  "description": "Free developer skills by Nex AI: secret scanning, prototype-to-production hardening, agent checkpoints, instruction-file writing, skill publishing, and self-hosted diagnostics.",
+  "author": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "devops",
+    "agents",
+    "skills"
+  ]
+}

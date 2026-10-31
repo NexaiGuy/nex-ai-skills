@@ -1,0 +1,19 @@
+{
+  "name": "nex-business-operations",
+  "displayName": "Nex Business Operations",
+  "version": "1.0.0",
+  "description": "Free operations skills by Nex AI: proposals, outreach, sector admin packs for Belgian and US small businesses, and manufacturing handoff.",
+  "author": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "operations",
+    "sme",
+    "sales",
+    "belgium"
+  ]
+}

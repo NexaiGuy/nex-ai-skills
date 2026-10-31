@@ -1,0 +1,130 @@
+{
+  "name": "nex-ai-skills",
+  "description": "Free, production-ready agent skills by Nex AI. Premium skills: https://www.agensi.io/creators/ch1n4-g3nd4x",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Nex AI",
+    "url": "https://nex-ai.be"
+  },
+  "plugins": [
+    {
+      "name": "nex-dev-essentials",
+      "source": "./plugins/nex-dev-essentials",
+      "description": "Free developer skills by Nex AI: secret scanning, prototype-to-production hardening, agent checkpoints, instruction-file writing, skill publishing, and self-hosted diagnostics.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nex AI",
+        "url": "https://nex-ai.be"
+      },
+      "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+      "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+      "license": "MIT",
+      "keywords": [
+        "security",
+        "devops",
+        "agents",
+        "skills"
+      ],
+      "category": "development"
+    },
+    {
+      "name": "nex-web-audits",
+      "source": "./plugins/nex-web-audits",
+      "description": "Free web skills by Nex AI: landing-page conversion audits, agent-ready websites, EU and US accessibility checks, Belgian search copy, and a single-file HTML section.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nex AI",
+        "url": "https://nex-ai.be"
+      },
+      "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+      "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+      "license": "MIT",
+      "keywords": [
+        "seo",
+        "accessibility",
+        "marketing",
+        "web"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "nex-browser-extensions",
+      "source": "./plugins/nex-browser-extensions",
+      "description": "Free Manifest V3 browser-extension skills by Nex AI: page monitoring, clean copy, screenshots, color and font tools, trust checks, prompt boosting, and local receipt capture.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nex AI",
+        "url": "https://nex-ai.be"
+      },
+      "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+      "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+      "license": "MIT",
+      "keywords": [
+        "chrome",
+        "browser",
+        "extensions"
+      ],
+      "category": "development"
+    },
+    {
+      "name": "nex-compliance",
+      "source": "./plugins/nex-compliance",
+      "description": "Free compliance skills by Nex AI: EU e-invoicing, GDPR, HIPAA, COPPA, EUDR, ISO 27001, webshop law, privacy, and hardware declarations.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nex AI",
+        "url": "https://nex-ai.be"
+      },
+      "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+      "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+      "license": "MIT",
+      "keywords": [
+        "compliance",
+        "gdpr",
+        "einvoice",
+        "privacy"
+      ],
+      "category": "compliance"
+    },
+    {
+      "name": "nex-finance-property",
+      "source": "./plugins/nex-finance-property",
+      "description": "Free finance and property skills by Nex AI: Belgian non-profit, rental, and syndicate admin, Flemish purchase costs, and US property and pay-app packs.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nex AI",
+        "url": "https://nex-ai.be"
+      },
+      "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+      "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+      "license": "MIT",
+      "keywords": [
+        "finance",
+        "property",
+        "belgium",
+        "accounting"
+      ],
+      "category": "finance"
+    },
+    {
+      "name": "nex-business-operations",
+      "source": "./plugins/nex-business-operations",
+      "description": "Free operations skills by Nex AI: proposals, outreach, sector admin packs for Belgian and US small businesses, and manufacturing handoff.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nex AI",
+        "url": "https://nex-ai.be"
+      },
+      "homepage": "https://www.agensi.io/creators/ch1n4-g3nd4x",
+      "repository": "https://github.com/NexaiGuy/nex-ai-skills",
+      "license": "MIT",
+      "keywords": [
+        "operations",
+        "sme",
+        "sales",
+        "belgium"
+      ],
+      "category": "business"
+    }
+  ]
+}
