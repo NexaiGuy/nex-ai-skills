@@ -6,6 +6,12 @@ This repository is a [Claude Code plugin marketplace](https://code.claude.com/do
 
 **[Browse the full catalog (311 skills, 81 free)](https://www.agensi.io/creators/ch1n4-g3nd4x)**
 
+## Root entry point
+
+[`SKILL.md`](SKILL.md) at the repository root is the catalog router for directories that only read a root skill file. It sends a task to the matching guide in [`skills/`](skills/). It is not a seventh plugin and it is not a substitute for any individual guide.
+
+The router sets `metadata.internal` so the skills CLI keeps installing the folders in `skills/`. A normal root `SKILL.md` makes `npx skills add NexaiGuy/nex-ai-skills` stop at that file. The install commands below stay the same.
+
 ## Install
 
 ### Claude Code
